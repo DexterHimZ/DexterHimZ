@@ -62,10 +62,9 @@
 
 <h2>My Latest Project</h2> 
 <br />
-<p><a href="https://github.com/DexterHimZ/https://github.com/DexterHimZ/Cowin-Notification-alerts#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DexterHimZ&repo=https://github.com/DexterHimZ/Cowin-Notification-alerts&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com/DexterHimZ/https://github.com/DexterHimZ/Cowin-Notification-alerts#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DexterHimZ&repo=https://github.com/DexterHimZ/Cowin-Notification-alerts&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
+<p><a href="https://github.com/DexterHimZ/Cowin-Notification-alerts#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DexterHimZ&repo=Cowin-Notification-alerts&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
+<p><a href="https://github.com/DexterHimZ/Cowin-Notification-alerts#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DexterHimZ&repo=Cowin-Notification-alerts&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
 <br />
-
 
                     
 
