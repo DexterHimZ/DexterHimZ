@@ -28,7 +28,7 @@
 
 <h2>Languages and Tools</h2> 
 <p align="left">
-<img width="280px"  src="https://skillicons.dev/icons?i=c,cpp,git,go,java,linux,react,redux,css,gtml,py,solidity,tensorflow,ts,unreal,aws&perline=9"  />
+<img width="600px"  src="https://skillicons.dev/icons?i=c,cpp,git,go,java,linux,react,redux,css,gtml,py,solidity,tensorflow,ts,unreal,aws&perline=9"  />
 </p>
 <br />
 
